@@ -36,3 +36,4 @@ build/
 .babelrc
 
 node_modules/
+config.json
